@@ -63,9 +63,7 @@ The integration uses a cloud-to-local and cloud-to-cloud architecture governed b
 ---
 
 ## 📷 Live Demo & Validation
-*Include screenshots here!*
-- **Claude's Tool Call:** [Insert screenshot showing Claude asking permission to run `create_event` tool]
-- **Google Calendar Result:** [Insert screenshot of your calendar displaying the events Claude successfully created]
+(https://nextwork.ai/projects/196c10e4-8205-4e3b-82ee-0bb25b3b5773)
 
 ---
 
