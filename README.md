@@ -1,4 +1,5 @@
 # Automated Meeting Notes to Calendar Workflow via MCP
+https://nextwork.ai/projects/196c10e4-8205-4e3b-82ee-0bb25b3b5773
 
 An automated system integration that connects background meeting transcripts to Google Calendar using Claude.ai and the Model Context Protocol (MCP).
 
